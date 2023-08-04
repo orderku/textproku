@@ -1,7 +1,7 @@
 {
-  "name": "mumaker",
+  "name": "textproku",
   "version": "2.0.0",
-  "description": "Maker and Downloader",
+  "description": "hmm",
   "main": "index.js",
   "scripts": {
     "test": "node test.js",
@@ -14,7 +14,7 @@
     "maker",
     "mumaker"
   ],
-  "author": "Dika Ardnt.",
+  "author": "gg",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.4.0",
